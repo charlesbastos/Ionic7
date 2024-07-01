@@ -1,0 +1,7 @@
+{
+  "name": "myApp_FileExplorer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
